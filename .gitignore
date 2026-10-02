@@ -1,0 +1,29 @@
+# Python caches and notebook temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Generated model artifacts and evaluation outputs
+*.pkl
+*_evaluation.csv
+*_feature_importance.csv
+feature_weights_*.csv
+model_features.csv
+*_results.csv
+
+# Local data exports and spreadsheet backups
+*.xlsx~
+*.xlsm~
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
