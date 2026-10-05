@@ -1,0 +1,28 @@
+feature,importance
+num__mock_interview_score,0.08133202258833888
+num__coding_skill_score,0.08035028640972033
+num__logical_reasoning_score,0.08017845980452945
+num__aptitude_score,0.08016502296458751
+num__communication_skill_score,0.07983284934036951
+num__leadership_score,0.07890352482417874
+num__extracurricular_score,0.07844230979957922
+num__cgpa,0.07677343435861575
+num__attendance_percentage,0.07603796482802203
+num__github_repos,0.0419302507082777
+num__certifications_count,0.03406333440036242
+num__projects_count,0.03281382808771227
+num__hackathons_participated,0.025224395183562127
+num__internships_count,0.024465109511193912
+num__college_pursuing_year,0.021845066815193173
+num__backlogs,0.013957118875762212
+cat__branch_CSE,0.010117412928293892
+cat__college_tier_Tier 2,0.01006426490345713
+cat__college_tier_Tier 3,0.009399494001089033
+cat__volunteer_experience_No,0.009070055796665097
+cat__volunteer_experience_Yes,0.009017577909851146
+cat__branch_IT,0.008963821489702092
+cat__college_tier_Tier 1,0.008525578719343068
+cat__branch_ECE,0.007758282455253343
+cat__branch_Mechanical,0.00700873429784658
+cat__branch_EEE,0.006958340278063871
+cat__branch_Civil,0.0068014587204293965
