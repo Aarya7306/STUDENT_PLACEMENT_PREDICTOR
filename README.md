@@ -6,7 +6,7 @@ This project develops and evaluates machine-learning models for student placemen
 
 - `phase1/` - Simple linear regression analysis and feature weights.
 - `phase2/` - Logistic regression classification with evaluation metrics, plots, and exported results.
-- `phase4/` - XGBoost model training, evaluation, and feature importance analysis.
+- `phase3/` - Random Forest and XGBoost model training, evaluation, and feature importance analysis.
 - `student_placement_phase1_ready.xlsx` - Prepared dataset used by the notebooks.
 
 ## Phase 2 Results
@@ -27,3 +27,13 @@ The Logistic Regression notebook generates:
 3. Run the cells from top to bottom.
 
 Run each phase from its own folder so that relative dataset paths resolve correctly.
+
+## Phase 3 Results
+
+Run the notebooks from the `phase3/` folder. Both models write their evaluation
+metrics and feature-importance CSV files to `phase3/results/`:
+
+- `random_forest_metrics.csv`
+- `random_forest_feature_importance.csv`
+- `xgboost_results.csv`
+- `xgboost_feature_importance.csv`

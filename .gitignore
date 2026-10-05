@@ -19,6 +19,10 @@ feature_weights_*.csv
 model_features.csv
 *_results.csv
 
+# Phase 3 model outputs are part of the project results
+!phase3/results/
+!phase3/results/*.csv
+
 # Local data exports and spreadsheet backups
 *.xlsx~
 *.xlsm~
